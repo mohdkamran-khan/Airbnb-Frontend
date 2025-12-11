@@ -11,7 +11,7 @@ A fully responsive Airbnb clone built with React, Vite and Tailwind CSS. This re
 
 ## 🚀 Live preview
 
-You can preview the website at : 
+You can preview the website at : https://mohdkamran-khan.github.io/Airbnb-Frontend/
 
 ## ⭐ Features
 
